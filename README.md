@@ -2,7 +2,7 @@
 
 🚀 **Back-end Developer & DevOps Engineer**  
 📍 Shiraz, Iran · 📧 ariandokoohaki24@gmail.com · ☎️ +98 933 811 1548  
-[LinkedIn](http://www.linkedin.com/in/arian-d-843299209) · [GitHub](https://github.com/ariandokoohaki)
+[LinkedIn](http://www.linkedin.com/in/ariandokoohaki) · [GitHub](https://github.com/ariandokoohaki)
 
 ---
 
@@ -111,7 +111,7 @@ specialties:
 
 ## 📬 Connect With Me
 - ✉️ Email: ariandokoohaki24@gmail.com  
-- 💼 LinkedIn: http://www.linkedin.com/in/arian-d-843299209  
+- 💼 LinkedIn: http://www.linkedin.com/in/ariandokoohaki
 - 📂 GitHub: https://github.com/ariandokoohaki  
 - ☎️ Phone: +98 933 811 1548
 
