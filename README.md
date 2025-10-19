@@ -1,49 +1,81 @@
-# 👋 Hi, I'm Arian Dokoohaki
+# 👋 Hello, I'm Arian Dokoohaki
 
-**Back-end Developer & DevOps Engineer**  
+🚀 **Back-end Developer & DevOps Engineer**  
 📍 Shiraz, Iran · 📧 ariandokoohaki24@gmail.com · ☎️ +98 933 811 1548  
 [LinkedIn](http://www.linkedin.com/in/arian-d-843299209) · [GitHub](https://github.com/ariandokoohaki)
 
 ---
 
-## 🔎 About Me
-I design and deploy reliable backend services and automation pipelines. I’m a Python-first engineer (FastAPI) with practical DevOps experience (Docker, Kubernetes, CI/CD). My 8 years of hands-on software & hardware repair sharpen my troubleshooting skills and system-level thinking. I enjoy turning complex problems into maintainable, production-ready systems.
-
-- ✅ **Current:** Back-end Developer & DevOps Engineer at **Techchain** (Apr 2024 – Present)  
-- 🛠️ **Previously:** Backend & tooling work at **DrillAi** — Document Understanding, `general_service`, and a PyQt demo for drill-stuck prediction  
-- 🧰 **Background:** 8 years of computer repair & diagnostics (Tick PC Store)
-
----
-
-## 🚀 Core Tech Stack
-**Languages & Frameworks:** `Python` · `FastAPI` · `PyQt` · `Pandas` · (basic `HTML`/`CSS`)  
-**Databases & Storage:** PostgreSQL · MongoDB · MinIO  
-**Messaging & Streaming:** Kafka  
-**DevOps & CI/CD:** Docker (multi-stage builds) · Kubernetes · Git · GitLab CI/CD · GitHub Actions · SSH  
-**OS & Tools:** Linux · Alembic · monitoring & logging tools  
-**Low-code / Automation:** learning n8n · **ML infra:** learning RAG
-
----
-
-## 🧩 What I Build / Focus Areas
-- Production-grade REST APIs and microservices with FastAPI  
-- Containerized deployments and CI/CD pipelines (build → test → deploy)  
-- Reliable, maintainable infra for data & document processing systems  
-- Desktop tooling and demos (PyQt) to visualize and test ML/telemetry workflows
+## 🧑‍💻 About Me
+```yaml
+name: "Back-end Developer & DevOps Engineer"
+location: "Shiraz, Iran"
+current_focus:
+  - FastAPI microservices & API design
+  - Production CI/CD: GitLab CI / GitHub Actions
+  - Containerization & orchestration (Docker, Kubernetes)
+  - Reliable deployments and monitoring/observability
+  - Document processing & data pipelines
+  - Learning: Retrieval-Augmented Generation (RAG) & n8n automation
+specialties:
+  backend: "Python + FastAPI"
+  databases: "PostgreSQL + MongoDB"
+  storage: "MinIO"
+  messaging: "Kafka"
+  devops: "Docker + Kubernetes + GitLab CI"
+  infra_tools: "SSH, Linux, Alembic"
+  misc: "PyQt, Pandas, basic HTML/CSS"
+```
 
 ---
 
-## 📁 Selected Projects (high level)
-- **Opal — Techchain (backend services):** Contributed to multiple services; responsible for feature development and deployments via Docker + CI/CD.  
-- **Document Understanding / `general_service` — DrillAi:** End-to-end microservice for document processing; developed, tested, and deployed to production.  
-- **Drill Stuck Prediction Demo — DrillAi:** PyQt app that consumes telemetry and visualizes ML predictions for demos.  
-- **Kahroba Financial Platform — Techchain:** Ongoing backend & platform contributions.
+## 🛠️ Tech Stack & Tools
+
+### 🐍 Backend Development
+`Python` · `FastAPI` · `Pydantic` · `PyQt` · `Pandas`
+
+### 🗄️ Databases & Storage
+`PostgreSQL` · `MongoDB` · `MinIO`
+
+### 🚢 Containerization & Orchestration
+`Docker` · `Kubernetes`
+
+### 🔀 Messaging & Streaming
+`Kafka`
+
+### 🛡️ DevOps / CI-CD / Scripting
+`Git` · `GitLab CI/CD` · `GitHub Actions` · `SSH` · `Bash` · `YAML`
+
+### 🧰 Monitoring & Infra
+`Alembic` · (Prometheus / Grafana concepts for observability)
+
+### 🧩 Other / Learning
+`RAG (Retrieval-Augmented Generation)` · `n8n (automation)` · `basic HTML/CSS`
+
+---
+
+## 🔥 Current Projects & Focus
+- ⚡ **FastAPI Microservices** — Building high-performance REST APIs with async Python.  
+- 🧩 **Document Understanding / Processing** — End-to-end microservices for extracting & processing documents.  
+- ☸️ **Kubernetes Deployments** — Containerizing FastAPI services and improving orchestration and resilience.  
+- 🔁 **CI/CD Automation** — Creating reliable GitLab CI / GitHub Actions pipelines (build → test → deploy).  
+- 🔍 **Observability & Reliability** — Improving runtime monitoring and incident response.  
+- 🤖 **RAG & Automation** — Experimenting with Retrieval-Augmented Generation and n8n for automation workflows.
+
+---
+
+## 📁 Selected Work (high level)
+- **Opal (Techchain)** — Implemented multiple backend services and deployed them via Docker + CI/CD.  
+- **general_service (DrillAi)** — Designed, implemented, and deployed a document-processing microservice (end-to-end).  
+- **Drill Stuck Prediction Demo (DrillAi)** — PyQt desktop app for ingesting drill telemetry and visualizing ML predictions for demos.  
+- **Kahroba (Techchain)** — Ongoing backend contributions for a financial platform.
 
 > 🔗 Full repositories & demos: https://github.com/ariandokoohaki
 
 ---
 
-## 💡 Professional Experience
+## 💼 Professional Experience (summary)
+
 **Back-end Developer & DevOps Engineer — Techchain**  
 *April 2024 – Present · Shiraz, Iran*  
 - Implement backend features, containerize services, and manage CI/CD-driven deployments.  
@@ -51,11 +83,11 @@ I design and deploy reliable backend services and automation pipelines. I’m a 
 
 **Back-end Developer — DrillAi**  
 *(previous role — dates available on request)*  
-- Designed and delivered document-processing microservices and a PyQt demo app; handled CI/CD and server deployments.
+- Built document-processing microservices and a PyQt demo; handled CI/CD and server deployments.
 
 **Computer Repair Technician — Tick PC Store**  
 *May 2017 – Present · Shiraz, Iran*  
-- Hardware/software diagnosis and repairs — strengthened low-level debugging and customer-facing problem solving.
+- Hardware/software diagnosis and repair — strengthened low-level debugging and customer-facing problem solving.
 
 ---
 
@@ -65,7 +97,7 @@ I design and deploy reliable backend services and automation pipelines. I’m a 
 
 ---
 
-## 🗣 Languages
+## 🗣️ Languages
 - **Persian:** Native  
 - **English:** B2–C1
 
@@ -73,11 +105,11 @@ I design and deploy reliable backend services and automation pipelines. I’m a 
 
 ## 🤝 Open To
 - Backend engineering roles, DevOps / SRE positions, or hybrid backend+DevOps roles.  
-- Collaboration on production data pipelines, infra automation, or productizing ML services.
+- Collaborations on productionizing ML services, infra automation, and data pipeline projects.
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 - ✉️ Email: ariandokoohaki24@gmail.com  
 - 💼 LinkedIn: http://www.linkedin.com/in/arian-d-843299209  
 - 📂 GitHub: https://github.com/ariandokoohaki  
@@ -85,15 +117,6 @@ I design and deploy reliable backend services and automation pipelines. I’m a 
 
 ---
 
-## ⚡ Fun fact
-I bring both software engineering and deep hardware troubleshooting experience — this combination helps me solve tricky production incidents quickly.
-
----
-
-## 📌 Tips for visitors
-- Check my **pinned repositories** for representative projects.  
-- Want to collaborate or hire? Send a short message with the role or idea — I respond faster to scoped requests.
-
----
-
-*Last updated: October 19, 2025*
+## ⚡ Quick Tips
+- Check the **pinned repositories** on my profile for the most representative projects.  
+- Want to collaborate or hire? Send a short, scoped message describing the role or project — I reply faster to concise requests.
